@@ -18,10 +18,96 @@
       "avatar": null,
       "bio": "",
       "password": "$2b$08$.Fhldfqz.0zIaa0vfLZ6lOg0bbyH3VSNDojChNsuF1htJ273RKN0a",
-      "favourites": []
+      "favourites": [
+        {
+          "id": "fc7c5302350c792c641b",
+          "title": "Authentication vs. Authorization",
+          "tags": "Authentication, Authorization, Security"
+        }
+      ]
+    },
+    {
+      "id": "86c1998e83150678f0e5",
+      "email": "shohan1710050@gmail.com",
+      "firstName": "Dhiman ",
+      "lastName": "Sikdar",
+      "avatar": "avatar-1731692948726-368651592.jpg",
+      "bio": "Golang Developer with 2+ years of experience.",
+      "password": "$2b$08$EsQu/L9Zjtbf6ihv7i4nKewWhbXhTYNl.OjJ5jq0CLTwAc.x0A4ai",
+      "favourites": [
+        {
+          "id": "7b4d1f3628b31b27c199",
+          "title": "Loops and Strings in Go – Creating Brilliant Code with Style",
+          "tags": "Golang, Loops, Strings, Programming"
+        },
+        {
+          "id": "6696132b96f220c2bb93",
+          "title": "Model Validation in Golang",
+          "tags": "Golang, Programming"
+        }
+      ]
     }
   ],
   "blogs": [
+    {
+      "id": "3d8affa632294d0d68f6",
+      "title": "⛔ Block the distractions",
+      "content": "As time flies, as you get older, slowly but surely, more and more distractions creep into your life.\r\n\r\nIn my 20s, I had all the time in the world, no liabilities, and few responsibilities. I could arrive in the office, turn my noise-canceling ON, and dive into work for 12 hours if I felt like it. The result of such contracted focus is incredible progress, compounded over the early years of your career. So use the time well.\r\n\r\nToday, in my 30s, it's very different.\r\n\r\nA long-term relationship\r\n\r\nA child\r\n\r\nA house\r\n\r\nAssets that need maintenance\r\n\r\nBills that need payment\r\n\r\nA company that needs dedication and creativity\r\n\r\nAll these pieces that I decided to build my life around, that I love maintaining, emit distractions. Often distractions that need immediate attention. Disruptions, that prevent deep work.\r\n\r\nA partner has a birthday soon? You better start planning for it.\r\n\r\nChild needs to be picked up from pre-school early, because they may be sick. You better pack, drive home, pick a child seat into your work car, and drive.\r\n\r\nHouse? Well, your grass looks kinda 💩 this year. You better start looking into that. And don't forget about that weird noise, that's coming from the heat pump, that sounds like a costly repair.\r\n\r\nA stock earnings is to be reported tomorrow. Make sure to decide to hold, sell, or buy more. You want to be effective with your money, right?\r\n\r\nThe mortgage and the credit card are due tomorrow, you better shuffle the resources around.\r\n\r\nZillion ideas flowing through the company. You better prioritize them well, people are depending on you.\r\n\r\nYou probably skimmed through the paragraph, I'd do the same. It's a handful of things you choose to embrace, that you love, but they sap your attention and deep focus.\r\n\r\nAs you age, it's not gonna get better. At least as long as you want to have children and as long as you're ambitious and in a productive age.",
+      "thumbnail": "thumbnail-1731679176280-762161960.jpg",
+      "author": {
+        "id": "dc8bec69a2939deb4625",
+        "firstName": "Saina",
+        "lastName": "Zaman",
+        "avatar": "avatar-1731678829188-154567146.jpg"
+      },
+      "tags": "Productivity, Work-life Balance",
+      "likes": [
+        {
+          "id": "bc812e9fe310d8ae7adf"
+        },
+        {
+          "id": "86c1998e83150678f0e5"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-11-15T13:59:36.291Z",
+      "isFavourite": false
+    },
+    {
+      "id": "7b4d1f3628b31b27c199",
+      "title": "Loops and Strings in Go – Creating Brilliant Code with Style",
+      "content": "Welcome back, Go explorers! Ready to dive deeper into Go? So, it is time for our next chapter of Go programming. Today, we’re diving into two fundamental tools in coding: loops and strings. These might sound a bit trivial but these are the real big players when it comes to writing clean, well optimised code. And that is where loops and strings come to rescue either when automating chores or when improving the readability of your code. ",
+      "thumbnail": "thumbnail-1731691613618-880831336.png",
+      "author": {
+        "id": "bc812e9fe310d8ae7adf",
+        "firstName": "Hasnat",
+        "lastName": "Khandokar",
+        "avatar": null
+      },
+      "tags": "Golang, Loops, Strings, Programming",
+      "likes": [
+        {
+          "id": "86c1998e83150678f0e5"
+        },
+        {
+          "id": "dc8bec69a2939deb4625"
+        }
+      ],
+      "comments": [
+        {
+          "id": "a8e5059b3046e6100c0a",
+          "content": "Good one, mate!",
+          "author": {
+            "id": "86c1998e83150678f0e5",
+            "firstName": "Dhiman ",
+            "lastName": "Sikdar",
+            "avatar": null
+          }
+        }
+      ],
+      "createdAt": "2024-11-15T17:26:53.622Z",
+      "isFavourite": false
+    },
     {
       "id": "629a03c769211ecaeb9f",
       "title": "GitHub Models: An Overview of AI Prototyping",
@@ -55,24 +141,44 @@
       "isFavourite": false
     },
     {
-      "id": "3d8affa632294d0d68f6",
-      "title": "⛔ Block the distractions",
-      "content": "As time flies, as you get older, slowly but surely, more and more distractions creep into your life.\r\n\r\nIn my 20s, I had all the time in the world, no liabilities, and few responsibilities. I could arrive in the office, turn my noise-canceling ON, and dive into work for 12 hours if I felt like it. The result of such contracted focus is incredible progress, compounded over the early years of your career. So use the time well.\r\n\r\nToday, in my 30s, it's very different.\r\n\r\nA long-term relationship\r\n\r\nA child\r\n\r\nA house\r\n\r\nAssets that need maintenance\r\n\r\nBills that need payment\r\n\r\nA company that needs dedication and creativity\r\n\r\nAll these pieces that I decided to build my life around, that I love maintaining, emit distractions. Often distractions that need immediate attention. Disruptions, that prevent deep work.\r\n\r\nA partner has a birthday soon? You better start planning for it.\r\n\r\nChild needs to be picked up from pre-school early, because they may be sick. You better pack, drive home, pick a child seat into your work car, and drive.\r\n\r\nHouse? Well, your grass looks kinda 💩 this year. You better start looking into that. And don't forget about that weird noise, that's coming from the heat pump, that sounds like a costly repair.\r\n\r\nA stock earnings is to be reported tomorrow. Make sure to decide to hold, sell, or buy more. You want to be effective with your money, right?\r\n\r\nThe mortgage and the credit card are due tomorrow, you better shuffle the resources around.\r\n\r\nZillion ideas flowing through the company. You better prioritize them well, people are depending on you.\r\n\r\nYou probably skimmed through the paragraph, I'd do the same. It's a handful of things you choose to embrace, that you love, but they sap your attention and deep focus.\r\n\r\nAs you age, it's not gonna get better. At least as long as you want to have children and as long as you're ambitious and in a productive age.",
-      "thumbnail": "thumbnail-1731679176280-762161960.jpg",
+      "id": "fc7c5302350c792c641b",
+      "title": "Authentication vs. Authorization",
+      "content": "Authentication and Authorization are two critical terms that form the backbone of security on the internet. Together, they help protect our personal information, prevent unauthorized access, and ensure that only trusted users can access certain features or data.\r\n\r\nTo make things simple and sound, imagine you’re at the entrance of a big concert. To get inside, you need to show your ticket and maybe even prove who you are. But once you’re in, there are certain areas you can and can’t go. This is a lot like how Authentication and Authorization work on the internet!\r\n\r\nAuthentication is like proving who you are. It’s a process that helps a system verify that you are actually who you claim to be. Authorization is about deciding what you’re allowed to do once you’re inside. It’s the permissions that define what you can access or change.",
+      "thumbnail": "thumbnail-1731691479883-224879344.jpg",
       "author": {
-        "id": "dc8bec69a2939deb4625",
-        "firstName": "Saina",
-        "lastName": "Zaman",
-        "avatar": "avatar-1731678829188-154567146.jpg"
+        "id": "bc812e9fe310d8ae7adf",
+        "firstName": "Hasnat",
+        "lastName": "Khandokar",
+        "avatar": null
       },
-      "tags": "Productivity, Work-life Balance",
+      "tags": "Authentication, Authorization, Security",
       "likes": [
         {
           "id": "bc812e9fe310d8ae7adf"
         }
       ],
       "comments": [],
-      "createdAt": "2024-11-15T13:59:36.291Z",
+      "createdAt": "2024-11-15T17:24:39.892Z"
+    },
+    {
+      "id": "748415f6507d6885c06b",
+      "title": "Why Golang is a Backend Game Changer",
+      "content": "In the ever-evolving landscape of backend development, one language has emerged as a game changer: Golang. Known for its speed, simplicity, and scalability, Golang is redefining the way developers approach backend programming. This article will delve into the key features that make Golang stand out, from its optimized performance and easy-to-learn syntax to its advanced concurrency techniques and comprehensive programming tools. Whether you’re a seasoned developer or just starting out, understanding the power of Golang could be a significant step forward in your coding journey. Let’s explore why Golang is making waves in backend development.",
+      "thumbnail": "thumbnail-1731692327753-574306256.jpg",
+      "author": {
+        "id": "86c1998e83150678f0e5",
+        "firstName": "Dhiman ",
+        "lastName": "Sikdar",
+        "avatar": null
+      },
+      "tags": "Golang, Backend",
+      "likes": [
+        {
+          "id": "86c1998e83150678f0e5"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-11-15T17:38:47.763Z",
       "isFavourite": false
     },
     {
@@ -91,6 +197,106 @@
       "comments": [],
       "createdAt": "2024-11-15T14:12:51.615Z",
       "isFavourite": false
+    },
+    {
+      "id": "ec1d188f82322eab538c",
+      "title": "How to setup a backend project with Node.js, Express, and CORS",
+      "content": "Here's an overview of creating a simple server using Node.js, Express, CORS, and Nodemon. This server setup is often used to handle requests, serve data, and act as a backend for web applications.\r\n\r\nNode.js: Ensure you have Node.js installed (install from Node.js website).\r\n\r\nExpress: A minimal and flexible Node.js web application framework.\r\n\r\nCORS: Middleware that enables cross-origin resource sharing.\r\n\r\nNodemon: A utility that restarts the server automatically when files change.\r\n\r\nStep 1: Initialize a New Project\r\nIn your terminal, create a new directory and navigate to it. Initialize the project by running:\r\n\r\n\r\nCopy\r\n\r\nCopy\r\nnpm init -y\r\nThis command generates a package.json file to manage your project dependencies.\r\n\r\nStep 2: Install Dependencies\r\nInstall the required packages:\r\n\r\n\r\nCopy\r\n\r\nCopy\r\nnpm install express cors && npm install --save-dev nodemon\r\nexpress: For handling HTTP requests and responses.\r\n\r\ncors: To allow requests from other origins, which is important for frontend-backend communication.\r\n\r\nnodemon: To restart the server automatically when you save changes (useful for development).\r\n\r\nUsage\r\nAfter Prerequisites, use the following command to start the server:\r\n\r\nnpm start",
+      "thumbnail": "thumbnail-1731691847049-130640956.png",
+      "author": {
+        "id": "bc812e9fe310d8ae7adf",
+        "firstName": "Hasnat",
+        "lastName": "Khandokar",
+        "avatar": null
+      },
+      "tags": "Node, Express, Backend, CORS, Programming, Engineering, Set-up",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T17:30:47.056Z"
+    },
+    {
+      "id": "6696132b96f220c2bb93",
+      "title": "Model Validation in Golang",
+      "content": "Model validation is a crucial part of any piece of software. With proper validation you provide some useful guarantees and therefore simplify your further work. Working under assumptions also makes your code cleaner, because you don't need to make additional checks every time you use the model anymore - you just perceive the model to be completely valid. Probably every language has a community library that already solves the validation problem, so you don't have to worry about implementing your own solution. ",
+      "thumbnail": "thumbnail-1731692202979-881517046.png",
+      "author": {
+        "id": "86c1998e83150678f0e5",
+        "firstName": "Dhiman ",
+        "lastName": "Sikdar",
+        "avatar": null
+      },
+      "tags": "Golang, Programming",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T17:36:42.986Z",
+      "isFavourite": false
+    },
+    {
+      "id": "0a53d866c965a9d5c2ee",
+      "title": "7 Interactive Games to Practice Your Web Development Skills",
+      "content": "Teaching yourself how to code can be a long and sometimes frustrating journey. It can be easy to get stuck in a cycle of constant learning, but real progress comes from hands-on practice. Building projects is one way, but in this post, I’m sharing seven free coding games where you can have some fun while learning and practicing.\r\n\r\n",
+      "thumbnail": "thumbnail-1731692638919-737436004.jpg",
+      "author": {
+        "id": "dc8bec69a2939deb4625",
+        "firstName": "Saina",
+        "lastName": "Zaman",
+        "avatar": "avatar-1731678829188-154567146.jpg"
+      },
+      "tags": "Git, Games, Learn",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T17:43:58.928Z",
+      "isFavourite": false
+    },
+    {
+      "id": "7544d3c90c36f665498d",
+      "title": "A Beginner's Guide to Go",
+      "content": "Google developers Robert Griesemer, Rob Pike, and Ken Thompson created Go, a statically typed, compiled language. It is well-known for its simplicity, effectiveness, and simplicity of use, making it an excellent choice for novices.\r\n\r\nIn this guide, we'll go through the fundamentals of Go. We'll begin by configuring your environment, building your first \"Hello, World\" program, and learning the basic structure of a Go program. We'll also go over some of the language's fundamental concepts.",
+      "thumbnail": "thumbnail-1731692796529-718215015.png",
+      "author": {
+        "id": "86c1998e83150678f0e5",
+        "firstName": "Dhiman ",
+        "lastName": "Sikdar",
+        "avatar": null
+      },
+      "tags": "Golang, Learn",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T17:46:36.534Z",
+      "isFavourite": false
+    },
+    {
+      "id": "6814e33dfdd0b8f15335",
+      "title": "AWS Storage - EBS , EFS & S3",
+      "content": "AWS provides several storage services designed to meet different use cases for scalability, security, performance, and cost efficiency.",
+      "thumbnail": "thumbnail-1731692892955-291647892.png",
+      "author": {
+        "id": "86c1998e83150678f0e5",
+        "firstName": "Dhiman ",
+        "lastName": "Sikdar",
+        "avatar": null
+      },
+      "tags": "AWS",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T17:48:12.961Z",
+      "isFavourite": false
+    },
+    {
+      "id": "2c186238c9ca7e85eb65",
+      "title": "Data Platform vs Data Product",
+      "content": "A data platform is an architecture that is responsible for data management operations such as data collections, data transformation and storage. Based on its normal operation, an organization can access reliable and trustworthy data. The components of a data platform vary based on the use case. For example, the most common is the batch processing type, where usually composed from a data ingestion framework, a data processing framework, a storage, a processing engine and orchestration framework.",
+      "thumbnail": "thumbnail-1731693944510-565666148.jpg",
+      "author": {
+        "id": "86c1998e83150678f0e5",
+        "firstName": "Dhiman ",
+        "lastName": "Sikdar",
+        "avatar": "avatar-1731692948726-368651592.jpg"
+      },
+      "tags": "Engineering",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T18:05:44.516Z"
     }
   ]
 }
