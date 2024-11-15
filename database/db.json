@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "dc8bec69a2939deb4625",
+      "email": "iamdummy37@gmail.com",
+      "firstName": "Saina",
+      "lastName": "Zaman",
+      "avatar": "avatar-1731678829188-154567146.jpg",
+      "bio": "",
+      "password": "$2b$08$6cbE8gy6BLWoFAc5gfUAxuLf1dTp2DDt5OXxP2blxJeujcmsTHYmy",
+      "favourites": []
+    },
+    {
+      "id": "bc812e9fe310d8ae7adf",
+      "email": "shohan7035@gmail.com",
+      "firstName": "Hasnat",
+      "lastName": "Khandokar",
+      "avatar": null,
+      "bio": "",
+      "password": "$2b$08$.Fhldfqz.0zIaa0vfLZ6lOg0bbyH3VSNDojChNsuF1htJ273RKN0a",
+      "favourites": []
+    }
+  ],
+  "blogs": [
+    {
+      "id": "629a03c769211ecaeb9f",
+      "title": "GitHub Models: An Overview of AI Prototyping",
+      "content": "Anyone can be AI engineers. Everyone should have access to develop and test AI models. That is what I believe in today’s era of AI-driven application development.\r\n\r\nGitHub Models is a suite of capabilities provided by GitHub that enable developers to prototype, integrate, and utilize AI models effectively. In addition to these AI capabilities, developers can streamline their workflows, enhance collaboration, and ultimately create more efficient and innovative solutions - all right in GitHub!\r\n\r\nI believe the introduction of GitHub Models represents a significant shift in how developers can approach software development, especially in the realm of AI. That is why I’m super excited to be writing this series.\r\n\r\nThe Benefits of Using GitHub Models\r\nWith GitHub Models, developers can quickly experiment with different models. They can quickly dive into exploring various types of model. This rapid prototyping allows teams and individual hobbyists to test and iterate on their ideas more effectively. It is also super easy to spin up an environment in GitHub Codespaces after exploring the models in the playground, making it super easy to get your hands dirty with the code and make various projects.",
+      "thumbnail": "thumbnail-1731678998795-389256119.jpg",
+      "author": {
+        "id": "dc8bec69a2939deb4625",
+        "firstName": "Saina",
+        "lastName": "Zaman",
+        "avatar": "avatar-1731678829188-154567146.jpg"
+      },
+      "tags": "Github, Git, Version Control",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T13:56:38.806Z",
+      "isFavourite": false
+    },
+    {
+      "id": "3d8affa632294d0d68f6",
+      "title": "⛔ Block the distractions",
+      "content": "As time flies, as you get older, slowly but surely, more and more distractions creep into your life.\r\n\r\nIn my 20s, I had all the time in the world, no liabilities, and few responsibilities. I could arrive in the office, turn my noise-canceling ON, and dive into work for 12 hours if I felt like it. The result of such contracted focus is incredible progress, compounded over the early years of your career. So use the time well.\r\n\r\nToday, in my 30s, it's very different.\r\n\r\nA long-term relationship\r\n\r\nA child\r\n\r\nA house\r\n\r\nAssets that need maintenance\r\n\r\nBills that need payment\r\n\r\nA company that needs dedication and creativity\r\n\r\nAll these pieces that I decided to build my life around, that I love maintaining, emit distractions. Often distractions that need immediate attention. Disruptions, that prevent deep work.\r\n\r\nA partner has a birthday soon? You better start planning for it.\r\n\r\nChild needs to be picked up from pre-school early, because they may be sick. You better pack, drive home, pick a child seat into your work car, and drive.\r\n\r\nHouse? Well, your grass looks kinda 💩 this year. You better start looking into that. And don't forget about that weird noise, that's coming from the heat pump, that sounds like a costly repair.\r\n\r\nA stock earnings is to be reported tomorrow. Make sure to decide to hold, sell, or buy more. You want to be effective with your money, right?\r\n\r\nThe mortgage and the credit card are due tomorrow, you better shuffle the resources around.\r\n\r\nZillion ideas flowing through the company. You better prioritize them well, people are depending on you.\r\n\r\nYou probably skimmed through the paragraph, I'd do the same. It's a handful of things you choose to embrace, that you love, but they sap your attention and deep focus.\r\n\r\nAs you age, it's not gonna get better. At least as long as you want to have children and as long as you're ambitious and in a productive age.",
+      "thumbnail": "thumbnail-1731679176280-762161960.jpg",
+      "author": {
+        "id": "dc8bec69a2939deb4625",
+        "firstName": "Saina",
+        "lastName": "Zaman",
+        "avatar": "avatar-1731678829188-154567146.jpg"
+      },
+      "tags": "Productivity, Work-life Balance",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-11-15T13:59:36.291Z"
+    }
+  ]
+}
