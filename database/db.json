@@ -34,8 +34,23 @@
         "avatar": "avatar-1731678829188-154567146.jpg"
       },
       "tags": "Github, Git, Version Control",
-      "likes": [],
-      "comments": [],
+      "likes": [
+        {
+          "id": "bc812e9fe310d8ae7adf"
+        }
+      ],
+      "comments": [
+        {
+          "id": "abcdf8dbf904a279f0ba",
+          "content": "Nice one. It was Helpful.",
+          "author": {
+            "id": "bc812e9fe310d8ae7adf",
+            "firstName": "Hasnat",
+            "lastName": "Khandokar",
+            "avatar": null
+          }
+        }
+      ],
       "createdAt": "2024-11-15T13:56:38.806Z",
       "isFavourite": false
     },
@@ -51,9 +66,31 @@
         "avatar": "avatar-1731678829188-154567146.jpg"
       },
       "tags": "Productivity, Work-life Balance",
+      "likes": [
+        {
+          "id": "bc812e9fe310d8ae7adf"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-11-15T13:59:36.291Z",
+      "isFavourite": false
+    },
+    {
+      "id": "e60051e2103e26450bfc",
+      "title": "Distractions are everywhere, but they don’t have to hinder your productivity. ",
+      "content": "If you’ve ever felt distracted at work, you're not alone —- you’re in the majority. One study found that 99% of employees reported getting distracted while working. And according to a Udemy and Toluna poll, workers’ most common distractions are chatty coworkers (80%), office noise (70%), feeling overwhelmed by changes at work (61%), meetings (60%), and social media (56%). The worst part about distractions? It takes an average of just over 23 minutes to get back on track after getting interrupted by a distraction.\r\n\r\nDistractions are everywhere, but they don’t have to hinder your productivity. With the right tools in your toolbox, you can effectively manage and eliminate distractions to get more done and save time. In this post, we rounded up six of our best tips for minimizing distractions at work with some tactics to help you apply them in your workday. ",
+      "thumbnail": "thumbnail-1731679971603-867413548.jpg",
+      "author": {
+        "id": "bc812e9fe310d8ae7adf",
+        "firstName": "Hasnat",
+        "lastName": "Khandokar",
+        "avatar": null
+      },
+      "tags": "Productivity, Work-life Balance, Social Media",
       "likes": [],
       "comments": [],
-      "createdAt": "2024-11-15T13:59:36.291Z"
+      "createdAt": "2024-11-15T14:12:51.615Z",
+      "isFavourite": false
     }
   ]
 }
